@@ -49,7 +49,7 @@ Maven has three built-in build lifecycles: clean, default, and site.
 
 ### Maven Command Examples:
 
-Here are some common Maven commands:
+Here are some Maven commands:
 
 - `mvn compile`: Compiles the project's source code.
 - `mvn test`: Runs unit tests against compiled code.
